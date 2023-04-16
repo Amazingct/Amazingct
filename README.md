@@ -3,7 +3,7 @@
 ### Hi! there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Daniel Ogunlolu.
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Robotics+and+AI+Engineer;Co-founder%2C+Falcon+Robotics+Limited;AI++Engineer%2C+Parallel+Score;Certified+Life-Coach)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Embedded/IOT+and+AI+Engineer;Founder%2C+Ace+ Embedded+Nigeria+Limited;AI++Engineer%2C+Parallel+Score;Certified+Life-Coach)](https://git.io/typing-svg)
 
 ### Github stats
 ![Amazingct's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amazingct&show_icons=true&theme=algolia)
@@ -15,7 +15,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=solidBlue&color=%2394bcc&aColor=%23bbdb51)
 
 ### Website 
-<a href="https://www.falconrobotics.com.ng">                                                                               
+<a href="https://www.aceembedded.io">                                                                               
 <img src="web.png" width="60px">                   
 </a>&nbsp;&nbsp;   
 
