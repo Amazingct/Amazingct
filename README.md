@@ -3,7 +3,7 @@
 ### Hi! there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Daniel Ogunlolu.
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Embedded/IOT+and+AI+Engineer;Founder%2C+Ace+ Embedded+Nigeria+Limited;AI++Engineer%2C+Parallel+Score;Certified+Life-Coach)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Embedded+System+and+AI+Engineer;Founder%2C+Ace+ Embedded+Nigeria+Limited;AI++Engineer%2C+Parallel+Score;Certified+Life-Coach)](https://git.io/typing-svg)
 
 ### Github stats
 ![Amazingct's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amazingct&show_icons=true&theme=algolia)
